@@ -3,4 +3,6 @@
 1. Set up the project.
 2. Learned about Deepnote and how to use it to link with github.
 3. Learned about public and private keys in the context of Homomorphic Encryption.
-4. 
+4. Did a complete map of how the codebase runs. Learned about where the keys are stored initially, where the encrypted model params are stored duing training and so on.
+5. Realized: There is no actual homomorphic encryption, decryption, and aggression by the global model happening. 
+The framework is well laid out, but the code responsible for encryption, decryption and aggression is missing.
