@@ -1,0 +1,6 @@
+# DATE: 07/08/2025
+# Tasks Done:
+1. Set up the project.
+2. Learned about Deepnote and how to use it to link with github.
+3. Learned about public and private keys in the context of Homomorphic Encryption.
+4. 
