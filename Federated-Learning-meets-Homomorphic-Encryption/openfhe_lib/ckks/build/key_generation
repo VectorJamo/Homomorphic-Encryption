@@ -1,3 +1,13 @@
 #!/bin/bash
 echo "Generating keys..."
 # Add actual key generation logic here
+
+g++ ../key_generation.cpp -o keygen \
+  -I/usr/local/include/openfhe \
+  -L/usr/local/lib \
+  -lopenfhe-core -lopenfhe-pke -lopenfhe-serialization \
+  -std=c++17
+
+echo "Running key generator..."
+./keygen
+
