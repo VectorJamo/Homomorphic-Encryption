@@ -10,3 +10,9 @@ Libraries required: **TenSEAL**
 
 Can be installed using the following command:
 
+**1. Windows**
+```bash
+pip install tenseal
+
+
+
