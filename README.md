@@ -16,6 +16,7 @@ pip install tenseal
 ````
 
 **2. Linux/MacOS**
+
 A. Create a virtual environment and activate it.
 ```bash
 python3 -m venv tenseal-env
