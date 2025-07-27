@@ -1,5 +1,6 @@
 # Homormorphic Encryption Library
-Homomorphic Encryption library currently under development. Meant to be used for AI/ML computations.
+Homomorphic Encryption wrapper library currently under development. Designed to be used for AI/ML computations.
+
 Author: Suraj Neupane
 
 ## Installation
