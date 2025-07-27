@@ -1,4 +1,4 @@
-# Homormorphic Encryption Library
+# Homormorphic Encryption Wrapper Library
 Homomorphic Encryption wrapper library currently under development. Designed to be used for AI/ML computations.
 
 Author: Suraj Neupane
